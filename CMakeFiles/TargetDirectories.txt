@@ -1,0 +1,3 @@
+C:/Users/User/Algoritmai/CMakeFiles/Algoritmai.dir
+C:/Users/User/Algoritmai/CMakeFiles/edit_cache.dir
+C:/Users/User/Algoritmai/CMakeFiles/rebuild_cache.dir
